@@ -1,0 +1,9 @@
+{
+	"name": "tpl",
+	"authors": [
+		"Brian"
+	],
+	"description": "web template engine for hunt framework",
+	"copyright": "Copyright © 2016, Brian",
+	"license": "Apache-2.0"
+}
